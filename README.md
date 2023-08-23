@@ -1,7 +1,7 @@
 # Python Projects
-~ Atlas
-~ Snake Water Gun
-~ The Perfect Guess
-These are some really easy projects.
-This is easy to do.
+~ Atlas<br>
+~ Snake Water Gun<br>
+~ The Perfect Guess<br>
+These are some really easy projects.<br>
+This is easy to do.<br>
 You'll love it.
