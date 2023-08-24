@@ -4,4 +4,4 @@
 ~ The Perfect Guess<br>
 These are some really easy projects.<br>
 This is easy to do.<br>
-You'll love it.
+You'll love it and enjoy coding.
