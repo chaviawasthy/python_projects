@@ -5,4 +5,4 @@
 These are some really easy projects.<br>
 This is easy to do.<br>
 You'll love it and enjoy coding.<br>
-Try making these projects.
+Try making these projects for fun.
